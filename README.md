@@ -11,9 +11,9 @@ Example Vue.js front-end components
 ## express-basic-rest-crud
 An minimal express+mongoose server with a /rest/products route with:
 
-  POST (Create) one item
-  GET (Read) many items
-  GET (-"-) one item
-  PUT (Update) one item
-  DELETE (Delete) one item
+- POST (Create) one item
+- GET (Read) many items
+- GET (-"-) one item
+- PUT (Update) one item
+- DELETE (Delete) one item
 
