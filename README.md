@@ -17,3 +17,6 @@ An minimal express+mongoose server with a /rest/products route with:
 - PUT (Update) one item
 - DELETE (Delete) one item
 
+## basic-vue-app
+A simple vue app with a couple of components and a repeater
+

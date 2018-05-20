@@ -11,6 +11,9 @@ const Product = require('./models/product.js');
 
 // ROUTES
 
+// serve frontend files
+app.use(express.static( '../basic-vue-app/'));
+
 // REST routes (backend routes)
 
 // get products
