@@ -51,5 +51,5 @@ app.delete('/rest/products/:id', async (req, res)=>{
 });
 
 app.listen('3000', ()=>{
-  console.log('The magazine store server is running on port 3000');
+  console.log('The rest example server is running on port 3000');
 });
