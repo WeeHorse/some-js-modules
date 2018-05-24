@@ -31,3 +31,11 @@ An example of a basic cart implementation on both client and server. Note these 
 – Adding express routes for the cart in the server
 - Updating the ACL-list to allow the /rest/cart
 
+## router example
+An example of implementing the vue router in the client, with HTML5 popstate and providing virtual routes for popstate in the server. Note these things to do:
+
+- Add the vue router script in index.html.
+- Define your routes in the client script.
+- Create page-components for the full page views (which will hold your "normal" components for parts of the page views).
+- Define a wildcard route in the server (that does not match the rest routes).
+- Add a menu with (special) links.
