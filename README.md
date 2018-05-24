@@ -1,5 +1,5 @@
 # some-js-modules
-Just a loose collection of code snippets and modules
+Just a loose collection of code snippets and modules.
 
 ## access-manager
 This module is published on NPM (not in this repo). Frequently updated.
@@ -18,6 +18,7 @@ An minimal express+mongoose server with a /rest/products route with:
 - DELETE (Delete) one item
 
 ## basic-vue-app
+
 A simple vue app with a couple of components and a repeater
 
 ## cart-example
@@ -32,6 +33,7 @@ An example of a basic cart implementation on both client and server. Note these 
 - Updating the ACL-list to allow the /rest/cart
 
 ## router example
+
 An example of implementing the vue router in the client, with HTML5 popstate and providing virtual routes for popstate in the server. Note these things to do:
 
 - Add the vue router script in index.html.
@@ -39,3 +41,5 @@ An example of implementing the vue router in the client, with HTML5 popstate and
 - Create page-components for the full page views (which will hold your "normal" components for parts of the page views).
 - Define a wildcard route in the server (that does not match the rest routes).
 - Add a menu with (special) links.
+
+A good article about the vue router here: [https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router/](https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router/)
