@@ -20,3 +20,14 @@ An minimal express+mongoose server with a /rest/products route with:
 ## basic-vue-app
 A simple vue app with a couple of components and a repeater
 
+## cart-example
+An example of a basic cart implementation on both client and server. Note these things to do:
+
+- Creating cart and cart-item components in the client
+- Registering them in the client script
+- Adding the component scripts in index.html
+- Adding the component tags in your html
+- Adding a cart model and a cart middleware in the server
+– Adding express routes for the cart in the server
+- Updating the ACL-list to allow the /rest/cart
+
