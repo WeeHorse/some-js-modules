@@ -32,7 +32,7 @@ An example of a basic cart implementation on both client and server. Note these 
 – Adding express routes for the cart in the server
 - Updating the ACL-list to allow the /rest/cart
 
-## router example
+## router-example
 
 An example of implementing the vue router in the client, with HTML5 popstate and providing virtual routes for popstate in the server. Note these things to do:
 
@@ -43,3 +43,7 @@ An example of implementing the vue router in the client, with HTML5 popstate and
 - Add a menu with (special) links.
 
 A good article about the vue router here: [https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router/](https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router/)
+
+## product-admin-in-vue
+
+An example of a form-based vue component for creating data
