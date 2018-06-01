@@ -47,3 +47,7 @@ A good article about the vue router here: [https://www.liquidlight.co.uk/blog/ar
 ## product-admin-in-vue
 
 An example of a form-based vue component for creating data
+
+## product-categories-in-vue
+
+The categories are read into the menu and used to create a category submenu. The links go through the router to the products page. In the products page we filter what products to show based on the selected category.
